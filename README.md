@@ -194,7 +194,17 @@ The goal is simple:
 
 ---
 
-## 07 — OUTSIDE THE CHECKLIST
+## 07 — ENGINEERING NOTEBOOK
+
+The profile is also becoming a small public engineering notebook:
+
+- [Dream Architecture](./docs/dream-architecture/README.md) — system designs and trade-offs
+- [Engineering Labs](./docs/engineering-labs/README.md) — experiments that should be measured
+- [Dev Random](./docs/dev-random/README.md) — short notes from the engineering side of the work
+
+The rule is simple: **show the reasoning, show the evidence, keep the claims honest.**
+
+## 08 — OUTSIDE THE CHECKLIST
 
 I also like making things that don't necessarily belong in a corporate architecture diagram.
 
