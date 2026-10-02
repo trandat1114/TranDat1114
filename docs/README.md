@@ -1,19 +1,9 @@
-# Engineering Notes
+# Profile documentation
 
-This directory is the working notebook behind the profile.
+The profile documentation now points to dedicated repositories so that code, methodology, and writing can evolve independently.
 
-It is intentionally practical: architecture sketches, experiments, measurements, and notes from building software.
-
-## Areas
-
-- [Dream Architecture](./dream-architecture/README.md) — system designs built around failure modes, data flow, consistency, observability, and cost.
-- [Engineering Labs](./engineering-labs/README.md) — small experiments where a claim should be demonstrated with code or measurement.
-- [Dev Random](./dev-random/README.md) — short notes about software engineering that do not fit neatly into a technology category.
-
-## Rule
-
-No invented benchmarks. No fake production claims. No architecture diagram without an explanation of the trade-offs.
-
-The useful question is usually not *what pattern should I use?*
-
-> What problem are we solving, what can fail, and what evidence would tell us whether the design works?
+- [Engineering Playground](https://github.com/trandat1114/engineering-playground) — runnable .NET reliability experiments.
+- [SQL Performance Lab](https://github.com/trandat1114/sql-performance-lab) — local PostgreSQL query-plan investigations.
+- [Dream Architecture](https://github.com/trandat1114/dream-architecture) — design exercises and ADRs.
+- [Dev Random](https://github.com/trandat1114/dev-random) — short engineering notes.
+- [Archive guide](archive.md) — how to interpret older public repositories.
