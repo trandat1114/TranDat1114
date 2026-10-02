@@ -126,7 +126,27 @@ The tools change. The questions don't:
 
 ---
 
-## 04 — THINGS I'VE WORKED ON
+## 04 — SELECTED WORK
+
+### [.NET Universe](https://github.com/trandat1114/DotnetuniverseProject)
+
+Graduation project exploring search, validation, filtering, pagination, and application structure.
+
+### [Kafka Demo](https://github.com/trandat1114/KafkaDemo)
+
+Small .NET producer/consumer lab with Docker-based Kafka setup. Focused on making asynchronous message flow easy to inspect.
+
+### [C# Load Test Tool](https://github.com/trandat1114/CSharp-Donace-Load-Test-Tool)
+
+A lightweight command-line experiment for repeated HTTP requests and API performance exploration.
+
+### [Ocean IS Portfolio](https://github.com/trandat1114/new-ocean-is-portfolio)
+
+Current portfolio direction: a visual, engineering-focused presentation of how I build and think about systems.
+
+---
+
+## 05 — THINGS I'VE WORKED ON
 
 ### Enterprise / Water Billing
 
@@ -148,7 +168,7 @@ Building interfaces and APIs together so the contract between them stays boring�
 
 ---
 
-## 05 — CURRENTLY
+## 06 — CURRENTLY
 
 I'm pushing deeper into the stuff around the application:
 
@@ -174,7 +194,7 @@ The goal is simple:
 
 ---
 
-## 06 — OUTSIDE THE CHECKLIST
+## 07 — OUTSIDE THE CHECKLIST
 
 I also like making things that don't necessarily belong in a corporate architecture diagram.
 
@@ -190,13 +210,13 @@ All of them end up teaching something.
 
 ---
 
-## 07 — LEETCODE
+## 08 — LEETCODE
 
 [![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=TranDat1114&theme=github_dark)](https://leetcode.com/u/TranDat1114/)
 
 ---
 
-## 08 — FIND ME
+## 09 — FIND ME
 
 **Portfolio:** https://jayandy.id.vn  
 **Email:** dattranphu1114@gmail.com  
